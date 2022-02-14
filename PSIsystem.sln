@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSIsystem", "PSIsystem\PSIsystem.csproj", "{FFB333D2-FA49-4A5B-90E2-695D8D152BD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB333D2-FA49-4A5B-90E2-695D8D152BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB333D2-FA49-4A5B-90E2-695D8D152BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB333D2-FA49-4A5B-90E2-695D8D152BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB333D2-FA49-4A5B-90E2-695D8D152BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41CEBCC4-829C-4F76-90AB-B77582F16CBC}
+	EndGlobalSection
+EndGlobal
